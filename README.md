@@ -8,5 +8,5 @@ A phpmyadmin database health.sql has been attached which has columns age, gender
 age- 0 if age<=20;
 age- 1 if age>20 and age<=50;
 age- 2 if age>50;
-age-120 if the disease is genderfluid.
+age-120 for all age groups.
 
